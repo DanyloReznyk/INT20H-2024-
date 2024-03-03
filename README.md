@@ -1,4 +1,4 @@
-# INT20H-2024-
+# INT20H-2024
 
 # Algorithm development image segmentation
 Data Mayhem solution's
