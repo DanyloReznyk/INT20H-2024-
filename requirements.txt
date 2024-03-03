@@ -1,0 +1,9 @@
+matplotlib==3.8.2
+mtcnn==0.1.1
+numpy==1.26.4
+pandas==2.2.0
+scikit-image==0.22.0
+pillow==10.2.0
+skikit-learn==1.2.2
+tensorflow==2.15.0
+googledrivedownloader==0.4
